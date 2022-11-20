@@ -1,4 +1,4 @@
-### Hi there 👋
+### :shipit: Hello there :shipit:
 My name is Maksym :skull:
 <br />
-You could find me there [![Instagram](instagram.png)](https://www.instagram.com/maksymszemer/)
+You can find me there [![Instagram](instagram.png)](https://www.instagram.com/maksymszemer/)
