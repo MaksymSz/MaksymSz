@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksymsz&label=Profile%20views&color=0e75b6&style=flat" alt="maksymsz" /> </p>
 
-- 🔭 I’m currently working on **aaaa**
-
-- 🌱 I’m currently learning **aaaa**
+- 🔭 I’m currently working on **TODO**
+- 🌱 I’m currently learning **TODO**
+- :newspaper: My last published paper: **TODO**
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
