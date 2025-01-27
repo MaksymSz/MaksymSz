@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Graph Neural Networks**
 - :newspaper: My last paper (Currently in Peer Review): **[Topology-Informed Machine Learning for Efficient Prediction of Solid Oxide Fuel Cell Electrode Polarization](https://arxiv.org/abs/2410.05307)** 
 
-## About me
+## :information_desk_person: About me
 I am an AI Engineer with a strong focus on research and development in artificial intelligence and machine learning. My work involves building AI solutions, conducting scientific research, and developing innovative models. Currently, I have a scientific [paper under peer review](https://arxiv.org/abs/2410.05307).
 
 I specialize in machine learning and persistent homology, a crucial area of topological data analysis that reveals hidden structures in high-dimensional data.
