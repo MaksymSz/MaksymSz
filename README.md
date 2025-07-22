@@ -12,7 +12,7 @@ I specialize in machine learning and persistent homology, a crucial area of topo
 
 
 ## 🔬 Research & Projects
-I am passionate about AI, machine learning, and data science, working on cutting-edge solutions in predictive modeling, deep learning, and optimization. I am also a member of the student research group AI Lab.
+I am passionate about AI, machine learning, and data science, working on cutting-edge solutions in predictive modeling, deep learning, and optimization.
 
 ## 📫 Get in Touch
 Feel free to connect with me for collaborations, discussions, or research opportunities!
@@ -23,24 +23,25 @@ Feel free to connect with me for collaborations, discussions, or research opport
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 
 ### Machine Learning & AI
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo_text.svg" title="pytorch-geometric" alt="pytorch-geometric" height="40"/>&nbsp;
+  
   <a href="https://www.optuna.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/optuna/optuna/master/docs/image/optuna-logo.png" alt="optuna" height="40"/> </a>
-
+  <img src="https://lightning.ai/static/media/lightning-light.7f7e28493fb04c9626723e3ae593bebe.svg" title="pytorch-lightning" alt="pytorch-lightning" height="40"/>&nbsp;
+  
 ### Data Science & Visualization
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <a href="https://numba.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Numba_logo.svg" alt="numba" width="40" height="40"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/3eed28e026e4e0220f99e2f4c8a517fcb3a30a1b944c528efc9533ff7840435f/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" alt="matplotlib" height="40"/> </a>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/networkx/networkx-original.svg" height="40" alt="networkx logo"/> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/3eed28e026e4e0220f99e2f4c8a517fcb3a30a1b944c528efc9533ff7840435f/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" alt="matplotlib" height="40"/> </a>
 
 ### Databases
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
@@ -53,12 +54,16 @@ Feel free to connect with me for collaborations, discussions, or research opport
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" title="pydantic" alt="pydantic" height="40"/>&nbsp;
+
+## MLOps
+  <img src="https://miro.medium.com/v2/resize:fit:750/1*OsB57V0FPteixDBD_BBN4g.png" title="mlflow" alt="mlflow" height="40"/>&nbsp;
+  <img src="https://langchain-ai.github.io/langgraph/static/wordmark_light.svg" title="pytorch-lightning" alt="pytorch-lightning" height="40"/>&nbsp;
+
 
 ### Design & Documentation
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="40" alt="inkscape logo"  /> </a>
   <a> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Overleaf_Logo.svg" height="40" alt="overleaf"  /> </a>
-
-
 
 
 
