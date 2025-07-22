@@ -48,6 +48,10 @@ Feel free to connect with me for collaborations, discussions, or research opport
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/New_Firebase_logo.svg" alt="firebase" height="40"/> </a>
+  <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303574/elasticsearch-logo.svg" alt="elasticsearch" height="40"/> </a>
+
+
+
 
 ### Development Tools
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
