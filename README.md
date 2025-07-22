@@ -56,7 +56,7 @@ Feel free to connect with me for collaborations, discussions, or research opport
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" title="pydantic" alt="pydantic" height="40"/>&nbsp;
 
-## MLOps
+### MLOps
   <img src="https://miro.medium.com/v2/resize:fit:750/1*OsB57V0FPteixDBD_BBN4g.png" title="mlflow" alt="mlflow" height="40"/>&nbsp;
   <img src="https://langchain-ai.github.io/langgraph/static/wordmark_light.svg" title="pytorch-lightning" alt="pytorch-lightning" height="40"/>&nbsp;
 
