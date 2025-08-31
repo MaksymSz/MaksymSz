@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Maksym</h1>
-<h3 align="center">A passionate data scientist</h3>
+<h1 align="center">I'm Maksym</h1>
+<h3 align="center">A passionate reseacher</h3>
 
 - 🔭 I’m currently working on **Persistent Homology in Machine Learning**
 - 🌱 I’m currently learning **Graph Neural Networks**
-- :newspaper: My last paper: **[Topology-Informed Machine Learning for Efficient Prediction of Solid Oxide Fuel Cell Electrode Polarization](https://doi.org/10.1016/j.egyai.2025.100495)** 
+- :newspaper: Scientific Papers
+  - **[Topology-Informed Machine Learning for Efficient Prediction of Solid Oxide Fuel Cell Electrode Polarization](https://doi.org/10.1016/j.egyai.2025.100495)**
+  - **[Persistence is All You Need - A Topological Lens on Microstructural Characterization](https://arxiv.org/abs/2508.11967)**
 
 ## :information_desk_person: About me
-I am an AI Engineer with a strong focus on research and development in artificial intelligence and machine learning. My work involves building AI solutions, conducting scientific research, and developing innovative models. Currently, I have a scientific [paper](https://doi.org/10.1016/j.egyai.2025.100495).
+I am an AI Engineer with a strong focus on research and development in artificial intelligence and machine learning. My work involves building AI solutions, conducting scientific research, and developing innovative models.
 
 I specialize in machine learning and persistent homology, a crucial area of topological data analysis that reveals hidden structures in high-dimensional data.
 
