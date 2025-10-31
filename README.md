@@ -1,5 +1,5 @@
 <h1 align="center">I'm Maksym</h1>
-<h3 align="center">A passionate reseacher</h3>
+<h3 align="center">A passionate scientist</h3>
 
 - 🔭 I’m currently working on **Persistent Homology in Machine Learning**
 - 🌱 I’m currently learning **Graph Neural Networks**
