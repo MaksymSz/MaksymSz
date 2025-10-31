@@ -6,6 +6,7 @@
 - :newspaper: Scientific Papers
   - **[Topology-Informed Machine Learning for Efficient Prediction of Solid Oxide Fuel Cell Electrode Polarization](https://doi.org/10.1016/j.egyai.2025.100495)**
   - **[Persistence is All You Need - A Topological Lens on Microstructural Characterization](https://arxiv.org/abs/2508.11967)**
+  - **[Computational Topology in Energy Engineering: A New Lens on Microstructural Complexity](https://iopscience.iop.org/article/10.1088/1742-6596/3107/1/012002/meta)**
 
 ## :information_desk_person: About me
 I am an AI Engineer with a strong focus on research and development in artificial intelligence and machine learning. My work involves building AI solutions, conducting scientific research, and developing innovative models.
